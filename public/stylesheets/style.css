@@ -1,0 +1,15 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background: url(https://i.pinimg.com/originals/35/53/29/3553296666025f35a2d739a356bf337b.jpg) center center no-repeat;
+  background-attachment: fixed;
+  background-size:100% 100%;
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  color: #00B7FF;
+}
